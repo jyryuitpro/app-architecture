@@ -16,3 +16,4 @@ Part 2. 테스트 구현
 
 1. 좋은 아키텍처를 위한 올바른 테스트
 2. Google은 어떻게 테스트하는가
+3. Google의 테스팅 Best Practices 1
