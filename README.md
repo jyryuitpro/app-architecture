@@ -18,3 +18,7 @@ Part 2. 테스트 구현
 2. Google은 어떻게 테스트하는가
 3. Google의 테스팅 Best Practices 1
 4. Google의 테스팅 Best Practices 2
+
+Part 3. UI 계층
+
+1. MVx의 대원칙
