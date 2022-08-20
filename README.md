@@ -23,3 +23,4 @@ Part 3. UI 계층
 
 1. MVx의 대원칙
 2. MVP, 그리고 non-MVC에서 공통적으로 고려해야할 것들
+3. MVVM
